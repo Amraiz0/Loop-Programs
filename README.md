@@ -32,7 +32,7 @@ g++ --version
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/cpp-loop-programs.git
+gh repo clone Amraiz0/Loop-Programs
 cd cpp-loop-programs
 ```
 
