@@ -104,7 +104,7 @@ cpp-loop-programs/
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: https://github.com/Amraiz0/Loop-Programs
+- GitHub: https://github.com/Amraiz0
 - LinkedIn: https://www.linkedin.com/in/malik-amraiz-34455a3a4/
 
 ---
