@@ -1,6 +1,6 @@
 # 🖥️ C++ Loop Programs — Interactive Menu
 
-A beginner-friendly C++ project demonstrating core loop concepts through an interactive terminal menu. All 5 programs run from a single file — select any program by entering its number.
+A beginner-friendly C++ project demonstrating core loop concepts through an interactive terminal menu. All 5 programs run from a single file  select any program by entering its number.
 
 ---
 
@@ -111,7 +111,7 @@ cpp-loop-programs/
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available.
 
 ---
 
